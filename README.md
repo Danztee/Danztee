@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me below...
-- Twitter - https://twitter.comn/iamdanztee
+- Twitter - https://twitter.com/iamdanztee
 - Whatsapp - https://wa.me/+2348153537619
 - Instagram - https://instagram.com/iamdanztee
 
