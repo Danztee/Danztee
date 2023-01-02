@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danztee
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Next JS
+- 💞️ I’m looking to collaborate on anything as long as it involves coding❤️
 - 📫 How to reach me below...
 - Twitter - https://twitter.com/iamdanztee
 - Whatsapp - https://wa.me/+2348153537619
