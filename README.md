@@ -28,7 +28,7 @@ Feel free to reach out to me via email at
 - Twitter - https://twitter.com/iamdanztee <br />
 - Whatsapp - https://wa.me/+2348153537619 <br />
 - Instagram - https://instagram.com/iamdanztee <br />
-I'm open to collaboration, feedback, or just saying hi!
+I'm open to collaboration, feedback, or just saying hi!😊 
 
 
 <!---
