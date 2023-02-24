@@ -21,6 +21,16 @@
 
 <h1>Projects</h1>
 
+<h1>Contact</h1>
+Feel free to reach out to me via email at
+<a href="mailto:olowoniyidaniel@gmail.com">olowoniyidaniel@gmail.com</a> or
+<br />
+- Twitter - https://twitter.com/iamdanztee <br />
+- Whatsapp - https://wa.me/+2348153537619 <br />
+- Instagram - https://instagram.com/iamdanztee <br />
+I'm open to collaboration, feedback, or just saying hi!
+
+
 <!---
 Danztee/Danztee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
