@@ -30,6 +30,7 @@ Feel free to reach out to me via email at
 - Instagram - https://instagram.com/iamdanztee <br />
 I'm open to collaboration, feedback, or just saying hi!😊 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Danztee)](https://git.io/streak-stats)
 
 <!---
 Danztee/Danztee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
