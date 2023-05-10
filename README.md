@@ -1,5 +1,5 @@
 <h1>Olowoniyi Daniel - Web Developer</h1>
-h
+
 <p>Hi there! I'm Daniel, a web developer[Frontend Engineer] with experience in HTML, CSS, JavaScript, TypeScript, React, and Next.js. Welcome to my GitHub profile!
 </p>
 
