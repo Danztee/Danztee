@@ -21,9 +21,17 @@ h
 </ul>
 
 <h1>Projects</h1>
-<h1>1. Reddit Build</h1>
+<h2>1. Reddit Build</h2>
 [Live-Link](https://reddit-dan.vercel.app)
 <img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684857945/Screenshot_2023-05-23_at_16.55.05_vl4t1w.png' />
+
+<h2>2. ChatGPT Build</h2>
+[Live-Link](https://chatgpt-danztee.vercel.app)
+<img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684857945/Screenshot_2023-05-23_at_16.55.05_vl4t1w.png' />
+
+<h2>3. OpenSea</h2>
+[Live-Link](https://open-sea-one.vercel.app)
+<img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684858836/Screenshot_2023-05-23_at_17.19.51_xtiiop.png' />
 
 
 <h1>Contact</h1>
