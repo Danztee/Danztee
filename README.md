@@ -27,7 +27,7 @@ h
 
 <h2>2. ChatGPT Build</h2>
 [Live-Link](https://chatgpt-danztee.vercel.app)
-<img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684857945/Screenshot_2023-05-23_at_16.55.05_vl4t1w.png' />
+<img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684858627/Screenshot_2023-03-25_at_07.36.22_co3bfy.png' />
 
 <h2>3. OpenSea</h2>
 [Live-Link](https://open-sea-one.vercel.app)
