@@ -33,6 +33,10 @@ h
 [Live-Link](https://open-sea-one.vercel.app)
 <img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684858836/Screenshot_2023-05-23_at_17.19.51_xtiiop.png' />
 
+<h2>4. Spotify Build</h2>
+[Live-Link](https://spotify-build-dan.vercel.app)
+<img src='https://res.cloudinary.com/dhr6ts5i8/image/upload/v1684859209/Screenshot_2023-05-23_at_17.26.13_awgcye.png' />
+
 
 <h1>Contact</h1>
 Feel free to reach out to me via email at
