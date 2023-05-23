@@ -21,6 +21,7 @@ h
 </ul>
 
 <h1>Projects</h1>
+1. <h1>Reddit Build</h1>
 
 <h1>Contact</h1>
 Feel free to reach out to me via email at
