@@ -1,4 +1,5 @@
-  <header>
+<!---  
+<header>
     <h1>Olowoniyi Daniel - Full Stack Developer</h1>
     <p>Hi there! I'm Daniel, a passionate full stack MERN (MongoDB, Express.js, React.js, Node.js) and React Native developer dedicated to crafting immersive digital experiences. Welcome to my GitHub profile!</p>
   </header>
@@ -70,7 +71,7 @@ I'm open to collaboration, feedback, or just saying hi!😊
 
 <p align="center"><a href="https://www.codewars.com/users/Danztee/" target="_blank"><img src="https://www.codewars.com/users/Danztee/badges/large"></a></p>
 
-<!---
+
 Danztee/Danztee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
