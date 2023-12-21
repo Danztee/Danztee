@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Danztee)
+
+
 <!---  
 <header>
     <h1>Olowoniyi Daniel - Full Stack Developer</h1>
