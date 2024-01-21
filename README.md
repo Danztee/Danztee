@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Danztee)
+[![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
 
 
 <!---  
