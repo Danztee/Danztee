@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=Danztee)
+### Hey 👋
+I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing and work flawlessly. But don’t let the frontend focus fool you; I’ve got backend chops too 💻. Whether it’s crafting sleek user interfaces 🎨 or diving into server-side magic 🔮, I’ve got you covered
+
+![](https://komarev.com/ghpvc/?username=Danztee) 
+
 [![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=for-the-badge)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
 
 <a href="https://reap.global/">
