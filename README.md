@@ -5,10 +5,6 @@ I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing 
 
 [![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=for-the-badge)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
 
-<a href="https://x.com/iamdanztee/">
-   <img src="https://github-readme-stats.vercel.app/api?username=Danztee&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
-</a>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danztee&show_icons=true)  
 
 
