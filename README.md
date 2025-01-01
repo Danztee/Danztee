@@ -8,7 +8,7 @@ I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danztee&show_icons=true)  
 
 
-<!---  
+<!---  ---
 <header>
     <h1>Olowoniyi Daniel - Full Stack Developer</h1>
     <p>Hi there! I'm Daniel, a passionate full stack MERN (MongoDB, Express.js, React.js, Node.js) and React Native developer dedicated to crafting immersive digital experiences. Welcome to my GitHub profile!</p>
