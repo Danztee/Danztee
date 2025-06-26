@@ -7,7 +7,7 @@ I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danztee&show_icons=true)  
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danztee&api_domain=wakatime.com&range=last_7_days)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danztee&range=last_7_days&limit=10&layout=compact)
 
 
 <!---  ---
