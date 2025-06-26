@@ -40,7 +40,7 @@ When I’m not coding, I’m **writing tech threads**, **mentoring devs**, or **
 - **REST APIs** 🌐
 - **WebSockets / SSE** 📡
 - **CI/CD Pipelines** 🚦
-- **OpenAI API / LLMs** 🤖
+- **LLMs** 🤖
 
 ---
 
