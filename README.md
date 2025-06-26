@@ -1,22 +1,50 @@
 ### Hey, I’m Daniel 👋
 
-I’m a **Frontend Engineer** who loves crafting beautiful, fast, and accessible interfaces.  
-But beyond pixels and UI, I also love working on **backend systems**, APIs, and developer tooling.
+I’m a **Software Engineer (SWE)** 🧑‍💻 who loves building **scalable products**, **backend systems**, and **developer tools** 🚀.
 
-Whether it’s **designing delightful user experiences**, **building scalable Node.js backends**, or **optimizing fullstack apps for performance**—I enjoy making things that just work 🚀.
+I work across the stack—**from backend services** ⚙️ to **frontend interfaces** 🎨 and **cloud infrastructure** ☁️.  
+I’m passionate about **clean architecture**, **performance optimization**, and **shipping production-ready code** 🛠️.
 
----
-
-### 🛠️ Tech I Work With
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, ElysiaJS, Prisma
-- **Databases:** PostgreSQL, MongoDB
-- **Dev Tools:** Docker, Git, CI/CD, Vercel
-- **Others:** TypeScript, WebSockets, REST, SSE, OpenAI API
+When I’m not coding, I’m **writing tech threads**, **mentoring devs**, or **experimenting with new frameworks** 🧪.
 
 ---
 
-### 📊 My Stats
+### 🧰 Tech I Work With
+
+#### 👨‍💻 Languages:
+- **TypeScript** 🦕
+- **JavaScript** 💛
+- **Go (Golang)** 🐹
+- **Java** ☕
+- **SQL** 🗄️
+
+#### 🏗️ Backend Frameworks:
+- **Node.js (Express, ElysiaJS)** 🟢
+- **Spring Boot** 🌱
+- **Prisma** 🔗
+
+#### 🎨 Frontend:
+- **React** ⚛️
+- **Next.js** ⏭️
+- **Tailwind CSS** 💨
+
+#### ☁️ Cloud & Deployment:
+- **Google Cloud (GCP)** ☁️
+- **AWS (EC2, S3)** ☁️
+- **Azure** ☁️
+- **Vercel** ▲
+- **Netlify** 🚀
+- **Docker** 🐳
+
+#### 🔌 Other Stuff:
+- **REST APIs** 🌐
+- **WebSockets / SSE** 📡
+- **CI/CD Pipelines** 🚦
+- **OpenAI API / LLMs** 🤖
+
+---
+
+### 📈 My Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Danztee&style=flat-square)
 
@@ -28,15 +56,15 @@ Whether it’s **designing delightful user experiences**, **building scalable No
 
 ---
 
-### 📫 Let’s Connect
-- Twitter: [@danielolowoniyi](https://twitter.com/danielolowoniyi)
-- LinkedIn: [linkedin.com/in/danielolowoniyi](https://linkedin.com/in/danielolowoniyi)
-- Personal Site: [https://danielolowoniyi.com](https://danielolowoniyi.com)
+### 🌍 Let’s Connect
+
+- 🐦 Twitter/X: [@iamdanztee](https://twitter.com/iamdanztee)
+- 💼 LinkedIn: [linkedin.com/in/daniel-olowoniyi](https://linkedin.com/in/daniel-olowoniyi)
+- 🌐 Website: [https://danielolowoniyi.com](https://danielolowoniyi.com)
 
 ---
 
-_Thanks for stopping by!_
-
+_Thanks for stopping by! 🚀_
 
 <!--- 
 ### Hey 👋
