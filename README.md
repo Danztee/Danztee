@@ -1,3 +1,44 @@
+### Hey, I’m Daniel 👋
+
+I’m a **Frontend Engineer** who loves crafting beautiful, fast, and accessible interfaces.  
+But beyond pixels and UI, I also love working on **backend systems**, APIs, and developer tooling.
+
+Whether it’s **designing delightful user experiences**, **building scalable Node.js backends**, or **optimizing fullstack apps for performance**—I enjoy making things that just work 🚀.
+
+---
+
+### 🛠️ Tech I Work With
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, ElysiaJS, Prisma
+- **Databases:** PostgreSQL, MongoDB
+- **Dev Tools:** Docker, Git, CI/CD, Vercel
+- **Others:** TypeScript, WebSockets, REST, SSE, OpenAI API
+
+---
+
+### 📊 My Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Danztee&style=flat-square)
+
+[![WakaTime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=flat-square)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danztee&show_icons=true&theme=radical)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danztee&range=last_7_days&layout=compact)
+
+---
+
+### 📫 Let’s Connect
+- Twitter: [@danielolowoniyi](https://twitter.com/danielolowoniyi)
+- LinkedIn: [linkedin.com/in/danielolowoniyi](https://linkedin.com/in/danielolowoniyi)
+- Personal Site: [https://danielolowoniyi.com](https://danielolowoniyi.com)
+
+---
+
+_Thanks for stopping by!_
+
+
+<!--- 
 ### Hey 👋
 I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing and work flawlessly. But don’t let the frontend focus fool you; I’ve got backend chops too 💻. Whether it’s crafting sleek user interfaces 🎨 or diving into server-side magic 🔮, I’ve got you covered.
 
@@ -8,7 +49,7 @@ I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danztee&show_icons=true)  
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danztee&range=last_7_days&limit=10&layout=compact)
-
+--->
 
 <!---  ---
 <header>--
