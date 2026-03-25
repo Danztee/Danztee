@@ -1,4 +1,70 @@
-### Hey, I’m Daniel 👋
+## Hey, I’m Daniel 👋
+
+I’m a **Software Engineer** 🧑‍💻 focused on building **scalable, production-grade systems** and **products people actually use** 🚀.
+
+I enjoy turning complex ideas into **clean, reliable solutions**—whether that’s designing APIs, optimizing systems, or crafting smooth user experiences.
+
+
+## ⚡ What I Do
+
+* Build **scalable, production-grade systems**
+* Design **clean architectures** that are easy to maintain and extend
+* Ship fast, iterate faster, and focus on **real-world impact**
+
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages
+
+TypeScript • JavaScript • Go • Java
+
+### 🏗️ Backend
+
+Node.js (Express, ElysiaJS) • Gin (Golang) • Spring Boot
+
+### 🎨 Frontend
+
+React • Next.js • Tailwind CSS
+
+### ☁️ Cloud & DevOps
+
+GCP • AWS • Azure
+Docker • CI/CD Pipelines
+
+### 🔌 Systems & Tools
+
+REST APIs • WebSockets / SSE • LLM Integrations
+
+
+## 🚀 Current Focus
+
+* Building **SunoSpeak** — a privacy-first speech-to-text tool
+* Exploring **LLM-powered workflows & automation**
+* Scaling systems for **performance and reliability**
+
+
+## 📈 Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Danztee)
+
+[![WakaTime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=flat-square)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danztee\&show_icons=true\&theme=radical)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danztee\&range=last_7_days\&layout=compact)
+
+
+## 🌍 Connect With Me
+
+* 🐦 Twitter/X → https://twitter.com/iamdanztee
+* 💼 LinkedIn → https://linkedin.com/in/daniel-olowoniyi
+* 🌐 Website → https://danielolowoniyi.com
+
+
+> *I like building things that people actually use.* ⚡
+
+
+<!--- ### Hey, I’m Daniel 👋
 
 I’m a **Software Engineer (SWE)** 🧑‍💻 who loves building **scalable products**, **backend systems**, and **developer tools** 🚀.
 
@@ -66,7 +132,7 @@ When I’m not coding, I’m **writing tech threads**, **mentoring devs**, or **
 
 _Thanks for stopping by! 🚀_
 
-<!--- 
+
 ### Hey 👋
 I’m Daniel, a frontend wizard ✨ with a knack for making things look amazing and work flawlessly. But don’t let the frontend focus fool you; I’ve got backend chops too 💻. Whether it’s crafting sleek user interfaces 🎨 or diving into server-side magic 🔮, I’ve got you covered.
 
