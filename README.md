@@ -38,10 +38,7 @@ REST APIs • WebSockets / SSE • LLM Integrations
 
 ## 🚀 Current Focus
 
-* Building **SunoSpeak** — a privacy-first speech-to-text tool
-* Exploring **LLM-powered workflows & automation**
-* Scaling systems for **performance and reliability**
-
+* Building **SunoSpeak** — a privacy-first speech-to-text software
 
 ## 📈 Stats
 
